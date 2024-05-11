@@ -30,7 +30,7 @@ I am a Junior Data analyst/Senior Full Stack Developer <img src="https://media.g
 
 - :zap: In my free time, I spend tim with my family.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Armin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/armin-neumann/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Armin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/armin-neumann/)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
