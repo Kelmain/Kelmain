@@ -28,7 +28,7 @@ I am a Junior Data analyst/Senior Full Stack Developer <img src="https://media.g
 
 - :seedling: Love to solve problems and overcoming challenges
 
-- :zap: In my free time, I spend tim with my family.
+- :zap: In my free time, I spend time with my familly.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Armin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/armin-neumann/)
 ---
