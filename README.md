@@ -24,7 +24,7 @@
 
 ### 💬  About Me :
 I am a Junior Data analyst/Senior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany living in Paris, France.
-- :telescope: Right now I finishing my Data analyst and I'm looking for a cooperative training course in Data Science/Data Engineer
+- :telescope: Right now I finishing my Data analyst and I'm looking for a cooperative training course in Data Science
 
 - :seedling: Love to solve problems and overcoming challenges
 
